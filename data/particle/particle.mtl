@@ -1,0 +1,12 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Material
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.460736 0.460736 0.380736
+Ks 0.108000 0.108000 0.108000
+Ni 1.000000
+d 0.208000
+illum 2
+map_Kd Particle.png

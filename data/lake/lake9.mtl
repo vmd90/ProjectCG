@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl blue
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.097262 0.281006 0.273849
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.639640
+illum 2
+map_Kd water.png
+map_d water.png

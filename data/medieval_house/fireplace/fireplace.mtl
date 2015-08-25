@@ -1,0 +1,60 @@
+# Exported from Wings 3D 1.4.1
+newmtl Default
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.401569 0.401569 0.401569
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd Dark-rock-texture.jpg
+
+newmtl Default_wood.jpg
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.401569 0.401569 0.401569
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd Dark-rock-texture.jpg
+
+newmtl Default_wood.jpg_Dark-rock-texture.jpg.001
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.401569 0.401569 0.401569
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd Dark-rock-texture.jpg
+
+newmtl Default_wood.jpg_NONE
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.401569 0.401569 0.401569
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd wood.jpg
+
+newmtl Default_wood.jpg_wood.jpg
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.401569 0.401569 0.401569
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd wood.jpg
+
+newmtl default
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.8333333333333334 0.7428571428571428 0.6444444444444445
+Ka 0.8333333333333334 0.7428571428571428 0.6444444444444445
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+

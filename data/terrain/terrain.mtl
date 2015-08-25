@@ -1,0 +1,12 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl green
+Ns 84.313725
+Ka 0.000000 0.000000 0.000000
+Kd 0.024173 0.080670 0.005093
+Ks 0.110685 0.110685 0.110685
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd grass.jpg

@@ -1,0 +1,40 @@
+# Exported from Wings 3D 1.4.1
+newmtl QT_branch.001
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.262144 0.262144 0.262144
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd stamm21.jpg
+
+newmtl ast1a.001
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.205603 0.205603 0.205603
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd stamm21.jpg
+
+newmtl default
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.8333333333333334 0.7428571428571428 0.6444444444444445
+Ka 0.8333333333333334 0.7428571428571428 0.6444444444444445
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl nadeln.001
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.25906 0.25906 0.25906
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd nadeln4.jpg
+

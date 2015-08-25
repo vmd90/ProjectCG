@@ -1,0 +1,308 @@
+# Exported from Wings 3D 1.4.1
+newmtl brown_material
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.050669 0.027058 0.008433
+Ka 0.0 0.0 0.0
+Ks 0.078712 0.078712 0.078712
+Ke 0.0 0.0 0.0
+
+newmtl cream_material
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.32768 0.291503 0.135739
+Ka 0.0 0.0 0.0
+Ks 0.223981 0.223981 0.223981
+Ke 0.0 0.0 0.0
+map_Kd out_0_6E339CC8.png
+
+newmtl cream_material2
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.32768 0.291503 0.135739
+Ka 0.0 0.0 0.0
+Ks 0.223981 0.223981 0.223981
+Ke 0.0 0.0 0.0
+map_Kd out_0_6E339CC8.png
+
+newmtl cream_material3
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.32768 0.291503 0.135739
+Ka 0.0 0.0 0.0
+Ks 0.223981 0.223981 0.223981
+Ke 0.0 0.0 0.0
+map_Kd out_0_6E339CC8.png
+
+newmtl cream_material4
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.32768 0.291503 0.135739
+Ka 0.0 0.0 0.0
+Ks 0.223981 0.223981 0.223981
+Ke 0.0 0.0 0.0
+map_Kd out_0_6E339CC8.png
+
+newmtl cream_material_NONE
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.32768 0.291503 0.135739
+Ka 0.0 0.0 0.0
+Ks 0.223981 0.223981 0.223981
+Ke 0.0 0.0 0.0
+map_Kd out_0_6E339CC8.png
+
+newmtl default
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.8333333333333334 0.7428571428571428 0.6444444444444445
+Ka 0.8333333333333334 0.7428571428571428 0.6444444444444445
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl material_318-effect.001
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd RooftilesWood0005_2_S.jpg
+
+newmtl material_324-effect.001
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.079063 0.079063 0.079063
+Ke 0.0 0.0 0.0
+map_Kd WoodRough0106_2_S.jpg
+
+newmtl material_336-effect.001
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd RooftilesWood0005_2_S.jpg
+
+newmtl material_529-effect.001
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.125572 0.125572 0.125572
+Ke 0.0 0.0 0.0
+map_Kd WoodRough0106_2_S.jpg
+
+newmtl material_529-effect.001_
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl material_529-effect.001_NONE
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.125572 0.125572 0.125572
+Ke 0.0 0.0 0.0
+map_Kd WoodRough0106_2_S.jpg
+
+newmtl material_529-effect.001_WoodPlanksBare0002_1_S.jpg
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.125572 0.125572 0.125572
+Ke 0.0 0.0 0.0
+map_Kd WoodPlanksBare0002_1_S.jpg
+
+newmtl material_535-effect.001
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.090832 0.090832 0.090832
+Ke 0.0 0.0 0.0
+map_Kd out_0_6E339CC8.png
+
+newmtl material_559-effect.001
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.076574 0.076574 0.076574
+Ke 0.0 0.0 0.0
+map_Kd RooftilesWood0005_2_S.jpg
+
+newmtl material_559-effect.001_NONE
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.076574 0.076574 0.076574
+Ke 0.0 0.0 0.0
+map_Kd RooftilesWood0005_2_S.jpg
+
+newmtl material_571-effect.001
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.106528 0.106528 0.106528
+Ke 0.0 0.0 0.0
+map_Kd WoodRough0106_2_S.jpg
+
+newmtl material_571-effect.001_NONE
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.106528 0.106528 0.106528
+Ke 0.0 0.0 0.0
+map_Kd WoodRough0106_2_S.jpg
+
+newmtl material_571-effect.001_WoodRough0106_2_S.jpg
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.106528 0.106528 0.106528
+Ke 0.0 0.0 0.0
+map_Kd WoodRough0106_2_S.jpg
+
+newmtl material_577-effect.001
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.083526 0.083526 0.083526
+Ke 0.0 0.0 0.0
+map_Kd WoodRough0106_2_S.jpg
+
+newmtl material_577-effect.001_WoodRough0106_2_S.jpg
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.083526 0.083526 0.083526
+Ke 0.0 0.0 0.0
+map_Kd WoodRough0106_2_S.jpg
+
+newmtl ns649_Material_003_60-effect.001
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd WoodRough0106_2_S.jpg
+
+newmtl ns649_Material_003_60-effect.001_NONE
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd panneau_col.jpg
+
+newmtl ns649_Material_003_60-effect.001_out_0_6E339CC8.png
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd out_0_6E339CC8.png
+
+newmtl ns649_Material_003_60-effect.001_panneau_col.jpg
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd panneau_col.jpg
+
+newmtl ns649_Material_003_60-effect.2
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd panneau_col.jpg
+
+newmtl wood
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.076574 0.076574 0.076574
+Ke 0.0 0.0 0.0
+map_Kd WoodPlanksBare0002_1_S.jpg
+
+newmtl wood2
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.076574 0.076574 0.076574
+Ke 0.0 0.0 0.0
+map_Kd WoodPlanksBare0002_1_S.jpg
+
+newmtl wood2_WoodPlanksBare0002_1_S.jpg
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.076574 0.076574 0.076574
+Ke 0.0 0.0 0.0
+map_Kd WoodPlanksBare0002_1_S.jpg
+
+newmtl wood_NONE
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.167772 0.167772 0.167772
+Ka 0.0 0.0 0.0
+Ks 0.076574 0.076574 0.076574
+Ke 0.0 0.0 0.0
+map_Kd WoodPlanksBare0002_1_S.jpg
+
